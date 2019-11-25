@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #pragma once
 
 #ifdef AUDIO_ENABLE
